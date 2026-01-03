@@ -1,5 +1,3 @@
-# UBER-Trips-Analytics
-
 # 🚕 Uber Trips Analytics
 
 This project analyzes Uber trip data to uncover insights into ride demand, travel patterns, and time-based trends. The analysis focuses on identifying peak hours, high-demand days, and frequently used pickup locations. Data cleaning and transformation were performed to ensure accuracy and consistency, followed by exploratory data analysis and visualization.
